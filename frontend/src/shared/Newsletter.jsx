@@ -29,6 +29,7 @@ const NewsLetter = () => {
             </Row>
          </Container>
       </section>
+      
    )
 }
 
