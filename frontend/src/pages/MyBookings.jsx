@@ -1,4 +1,3 @@
-// React component to fetch user booking information
 import React, { useState, useEffect } from 'react';
 import axios from 'axios'; // Import axios for making HTTP requests
 
